@@ -4,7 +4,7 @@ import { ExpenseChart } from './components/ExpenseChart'
 import { Header } from './components/Header'
 import { IncomeExpenses } from './components/IncomeExpenses'
 import { TransactionForm } from './components/Transactions/TransactionForm'
-import { TransactionList } from './components/Transactions/transactionList'
+import { TransactionList } from './components/Transactions/TransactionList'
 import { GlobalProvider } from './context/GlobalState'
 
 function App() {
